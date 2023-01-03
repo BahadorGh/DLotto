@@ -1,0 +1,14 @@
+node_modules
+.env
+coverage
+coverage.json
+typechain
+typechain-types
+/contracts/LotteryFactory.sol
+/contracts/LotteryO.sol
+/test/ 
+
+#Hardhat files
+cache
+artifacts
+
